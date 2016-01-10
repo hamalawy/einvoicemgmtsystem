@@ -1,0 +1,1 @@
+A standard complied e-Invoice Management System for enabling the invoice processing functionalities of the front end e-commerce systems including the integration of ERP system.
